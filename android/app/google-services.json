@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "837989483683",
+    "firebase_url": "https://test-thunkable-e8b09-default-rtdb.firebaseio.com",
+    "project_id": "test-thunkable-e8b09",
+    "storage_bucket": "test-thunkable-e8b09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837989483683:android:95665d0ea97a4f58426b16",
+        "android_client_info": {
+          "package_name": "com.yourdomain.kontrol_suhu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837989483683-8v5s52hgt40agh54bps5ij55h06jk971.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAT9AVz2tP2We4Ukgk4wogHfY2SsrRgQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837989483683-8v5s52hgt40agh54bps5ij55h06jk971.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
